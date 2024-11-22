@@ -34,6 +34,7 @@
   },
   "name":"SpeechGame",
   "resources":[
+    {"id":{"name":"Test","path":"objects/Test/Test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
