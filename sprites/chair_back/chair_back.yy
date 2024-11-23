@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"desk",
+  "%Name":"chair_back",
   "bboxMode":0,
-  "bbox_bottom":63,
-  "bbox_left":5,
-  "bbox_right":121,
-  "bbox_top":11,
+  "bbox_bottom":53,
+  "bbox_left":2,
+  "bbox_right":42,
+  "bbox_top":6,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"766fe514-61b0-4a82-9662-e189074f1169","name":"766fe514-61b0-4a82-9662-e189074f1169","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b126202a-4335-48b6-93da-3f743c930440","name":"b126202a-4335-48b6-93da-3f743c930440","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":60,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"605a360f-490a-42bc-b4d0-0438e6223468","blendMode":0,"displayName":"default","isLocked":false,"name":"605a360f-490a-42bc-b4d0-0438e6223468","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9447c04b-d85b-49ea-945d-1ff1908c0e0c","blendMode":0,"displayName":"default","isLocked":false,"name":"9447c04b-d85b-49ea-945d-1ff1908c0e0c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"desk",
+  "name":"chair_back",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"desk",
+    "%Name":"chair_back",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"desk",
+    "name":"chair_back",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"766fe514-61b0-4a82-9662-e189074f1169","path":"sprites/desk/desk.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"37c80fbe-3e96-4968-ad06-b55f50ad6cee","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b126202a-4335-48b6-93da-3f743c930440","path":"sprites/chair_back/chair_back.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5201cf11-8d7d-4a10-9081-f13d0eabe67b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":128,
+  "width":50,
 }
