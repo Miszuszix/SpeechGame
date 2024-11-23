@@ -9,17 +9,16 @@ ySpeed = (downKey - upKey) * moveSpeed
 x += xSpeed
 y += ySpeed
 
-if ySpeed > 0{ 
-	face = DOWN
-	goUP = 0
-}
-
-if ySpeed < 0{
-	face = UP
-	goUP = 1
-}
-
-if ySpeed == 0{
+if ySpeed != 0{
+	if ySpeed > 0{ 
+		face = DOWN
+		goUP = 0
+	}
+	if ySpeed < 0{
+		face = UP
+		goUP = 1
+	}
+}else{
 	if goUP == 0{
 		face = STOP
 	}
