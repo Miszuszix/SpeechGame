@@ -1,0 +1,1 @@
+rightKey = keyboard_check(ord("F"))
