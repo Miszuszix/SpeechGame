@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Test",
-  "eventList":[],
+  "%Name":"o_mainCharacter",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Test",
+  "name":"o_mainCharacter",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"1_Objects",
+    "path":"folders/1_Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"maincharacter_standing",
+    "path":"sprites/maincharacter_standing/maincharacter_standing.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
