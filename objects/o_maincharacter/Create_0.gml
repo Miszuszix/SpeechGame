@@ -1,6 +1,7 @@
 rightKey = 0
 leftKey = 0
 upKey = 0
+<<<<<<< Updated upstream
 downKey = 0
 
 xSpeed = 0
