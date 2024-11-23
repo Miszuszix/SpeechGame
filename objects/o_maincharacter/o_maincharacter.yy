@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_maincharacter",
+  "%Name":"o_mainCharacter",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_maincharacter",
+  "name":"o_mainCharacter",
   "overriddenProperties":[],
   "parent":{
     "name":"1_Objects",
@@ -34,9 +33,6 @@
     "name":"maincharacter_standing",
     "path":"sprites/maincharacter_standing/maincharacter_standing.yy",
   },
-  "spriteMaskId":{
-    "name":"maincharacter_goingforward",
-    "path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
