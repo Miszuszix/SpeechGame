@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"Test","path":"objects/Test/Test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"maincharacter_standing","path":"sprites/maincharacter_standing/maincharacter_standing.yy",},},
   ],
   "resourceType":"GMProject",
