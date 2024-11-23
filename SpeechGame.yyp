@@ -30,14 +30,18 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.1100.0.686",
   },
   "name":"SpeechGame",
   "resources":[
-    {"id":{"name":"Test","path":"objects/Test/Test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"maincharacter_goingforward","path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",},},
+=======
+    {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
+>>>>>>> 330e6aadeb149e98d792b71dbb3f343131a8392e
     {"id":{"name":"maincharacter_standing","path":"sprites/maincharacter_standing/maincharacter_standing.yy",},},
+    {"id":{"name":"wrsdziewczyna","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
