@@ -12,7 +12,6 @@
   "Folders":[
     {"$GMFolder":"","%Name":"1_Objects","folderPath":"folders/1_Objects.yy","name":"1_Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"2_Sprites","folderPath":"folders/2_Sprites.yy","name":"2_Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"3_Rooms","folderPath":"folders/3_Rooms.yy","name":"3_Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"4_TileSets","folderPath":"folders/4_TileSets.yy","name":"4_TileSets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"5_Scripts","folderPath":"folders/5_Scripts.yy","name":"5_Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -20,7 +19,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"",
   },
   "name":"SpeechGame",
   "resources":[
@@ -37,6 +36,8 @@
     {"id":{"name":"s_rack","path":"sprites/s_rack/s_rack.yy",},},
     {"id":{"name":"s_tailchangingroom","path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",},},
     {"id":{"name":"wrsdziewczyna","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

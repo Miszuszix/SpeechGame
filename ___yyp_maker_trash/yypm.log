@@ -1,0 +1,331 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[23-11-2024 04:45:03] Initialized GameMaker Project: SpeechGame.yyp
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/animcurves
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/extensions
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/fonts
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/notes
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/objects
+[23-11-2024 04:45:03] Checking o_mainCharacter
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/objects/o_mainCharacter
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/objects/o_mainCharacter
+[23-11-2024 04:45:03] Checking Step_0.gml
+[23-11-2024 04:45:03] Checking o_maincharacter.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/objects/o_mainCharacter/o_maincharacter.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/objects/o_mainCharacter/o_maincharacter.yy
+[23-11-2024 04:45:03] Par: "folders/1_Objects" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/objects/o_mainCharacter/o_maincharacter.yy"
+[23-11-2024 04:45:03] Found Object: o_maincharacter
+[23-11-2024 04:45:03] Checking Create_0.gml
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options
+[23-11-2024 04:45:03] Checking windows
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/windows
+[23-11-2024 04:45:03] Checking tvos
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/tvos
+[23-11-2024 04:45:03] Checking operagx
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/operagx
+[23-11-2024 04:45:03] Checking main
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/main
+[23-11-2024 04:45:03] Checking mac
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/mac
+[23-11-2024 04:45:03] Checking linux
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/linux
+[23-11-2024 04:45:03] Checking ios
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/ios
+[23-11-2024 04:45:03] Checking html5
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/html5
+[23-11-2024 04:45:03] Checking android
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/android
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/android
+[23-11-2024 04:45:03] Checking options_android.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/android/options_android.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/android/options_android.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/html5
+[23-11-2024 04:45:03] Checking options_html5.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/html5/options_html5.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/html5/options_html5.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/ios
+[23-11-2024 04:45:03] Checking options_ios.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/ios/options_ios.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/ios/options_ios.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/linux
+[23-11-2024 04:45:03] Checking options_linux.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/linux/options_linux.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/linux/options_linux.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/mac
+[23-11-2024 04:45:03] Checking options_mac.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/mac/options_mac.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/mac/options_mac.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/main
+[23-11-2024 04:45:03] Checking options_main.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/main/options_main.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/main/options_main.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/operagx
+[23-11-2024 04:45:03] Checking options_operagx.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/operagx/options_operagx.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/operagx/options_operagx.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/tvos
+[23-11-2024 04:45:03] Checking options_tvos.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/tvos/options_tvos.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/tvos/options_tvos.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/options/windows
+[23-11-2024 04:45:03] Checking options_windows.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/options/windows/options_windows.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/options/windows/options_windows.yy
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/paths
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/rooms
+[23-11-2024 04:45:03] Checking Room1
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/rooms/Room1
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/rooms/Room1
+[23-11-2024 04:45:03] Checking Room1.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy
+[23-11-2024 04:45:03] Invalid .yy file: C:/Users/igorw/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy
+[23-11-2024 04:45:03] Invalid file: Room1.yy, will be moved to ___yyp_maker_trash
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/scripts
+[23-11-2024 04:45:03] Checking script_macros
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/scripts/script_macros
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/scripts/script_macros
+[23-11-2024 04:45:03] Checking script_macros.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/scripts/script_macros/script_macros.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/scripts/script_macros/script_macros.yy
+[23-11-2024 04:45:03] Par: "folders/5_Scripts" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/scripts/script_macros/script_macros.yy"
+[23-11-2024 04:45:03] Found Script: script_macros
+[23-11-2024 04:45:03] Checking script_macros.gml
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sequences
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/shaders
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sounds
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites
+[23-11-2024 04:45:03] Checking wrsdziewczyna
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna
+[23-11-2024 04:45:03] Checking s_tailchangingroom
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom
+[23-11-2024 04:45:03] Checking s_rack
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack
+[23-11-2024 04:45:03] Checking s_player
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player
+[23-11-2024 04:45:03] Checking maincharacter_standing_back
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back
+[23-11-2024 04:45:03] Checking maincharacter_standing
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing
+[23-11-2024 04:45:03] Checking maincharacter_rightside
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside
+[23-11-2024 04:45:03] Checking maincharacter_leftside
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside
+[23-11-2024 04:45:03] Checking maincharacter_goingforward
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward
+[23-11-2024 04:45:03] Checking maincharacter_goingback
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback
+[23-11-2024 04:45:03] Checking chadgiebeta
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers
+[23-11-2024 04:45:03] Checking dbe4aede-8ef7-47aa-a6fb-7a8426b94d17.png
+[23-11-2024 04:45:03] Checking chadgiebeta.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy"
+[23-11-2024 04:45:03] Found Sprite: chadgiebeta
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers
+[23-11-2024 04:45:03] Checking dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers/dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers/dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 04:45:03] Checking 2ba6c724-c7ad-4dcd-b200-1233e589cf6e.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback
+[23-11-2024 04:45:03] Checking maincharacter_goingback.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/maincharacter_goingback.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/maincharacter_goingback.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/maincharacter_goingback.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_goingback
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers
+[23-11-2024 04:45:03] Checking a0efba47-3aeb-497f-87db-0431b673f04e.png
+[23-11-2024 04:45:03] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310.png
+[23-11-2024 04:45:03] Checking 2c44d92f-ba3b-476d-b8a6-4736f67a728f.png
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195.png
+[23-11-2024 04:45:03] Checking 13d82707-1474-4555-bd1f-4857837e01e0.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers
+[23-11-2024 04:45:03] Checking a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Checking 2c44d92f-ba3b-476d-b8a6-4736f67a728f
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/2c44d92f-ba3b-476d-b8a6-4736f67a728f
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/2c44d92f-ba3b-476d-b8a6-4736f67a728f
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingback/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward
+[23-11-2024 04:45:03] Checking maincharacter_goingforward.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_goingforward
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers
+[23-11-2024 04:45:03] Checking a0efba47-3aeb-497f-87db-0431b673f04e.png
+[23-11-2024 04:45:03] Checking 43606c0d-3980-481f-9ac3-d6c7c1d78fa9.png
+[23-11-2024 04:45:03] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310.png
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195.png
+[23-11-2024 04:45:03] Checking 13d82707-1474-4555-bd1f-4857837e01e0.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers
+[23-11-2024 04:45:03] Checking a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Checking 43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 04:45:03] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside
+[23-11-2024 04:45:03] Checking maincharacter_leftside.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/maincharacter_leftside.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/maincharacter_leftside.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/maincharacter_leftside.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_leftside
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/layers
+[23-11-2024 04:45:03] Checking d76fab61-cda2-4ddc-8a82-3ec5486427ef.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/layers
+[23-11-2024 04:45:03] Checking d76fab61-cda2-4ddc-8a82-3ec5486427ef
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/layers/d76fab61-cda2-4ddc-8a82-3ec5486427ef
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_leftside/layers/d76fab61-cda2-4ddc-8a82-3ec5486427ef
+[23-11-2024 04:45:03] Checking 581c5102-51ba-4b5e-b722-9c1993e17cb7.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside
+[23-11-2024 04:45:03] Checking maincharacter_rightside.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/maincharacter_rightside.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/maincharacter_rightside.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/maincharacter_rightside.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_rightside
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/layers
+[23-11-2024 04:45:03] Checking c76bcc9a-c0c4-4be2-88b9-7ab68e6b55ea.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/layers
+[23-11-2024 04:45:03] Checking c76bcc9a-c0c4-4be2-88b9-7ab68e6b55ea
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/layers/c76bcc9a-c0c4-4be2-88b9-7ab68e6b55ea
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_rightside/layers/c76bcc9a-c0c4-4be2-88b9-7ab68e6b55ea
+[23-11-2024 04:45:03] Checking ec6b7733-1681-4a3b-8875-2327c7ddcbb0.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing
+[23-11-2024 04:45:03] Checking maincharacter_standing.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_standing
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195.png
+[23-11-2024 04:45:03] Checking 13d82707-1474-4555-bd1f-4857837e01e0.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers
+[23-11-2024 04:45:03] Checking 16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 04:45:03] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back
+[23-11-2024 04:45:03] Checking maincharacter_standing_back.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/maincharacter_standing_back.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/maincharacter_standing_back.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/maincharacter_standing_back.yy"
+[23-11-2024 04:45:03] Found Sprite: maincharacter_standing_back
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/layers
+[23-11-2024 04:45:03] Checking 8935bb75-9812-4e69-a80d-a81a56944a10.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/layers
+[23-11-2024 04:45:03] Checking 8935bb75-9812-4e69-a80d-a81a56944a10
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/layers/8935bb75-9812-4e69-a80d-a81a56944a10
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/maincharacter_standing_back/layers/8935bb75-9812-4e69-a80d-a81a56944a10
+[23-11-2024 04:45:03] Checking 31e1e71b-83fa-414b-8656-bb8207b2c9f4.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player
+[23-11-2024 04:45:03] Checking s_player.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy"
+[23-11-2024 04:45:03] Found Sprite: s_player
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/layers
+[23-11-2024 04:45:03] Checking 4e0ae1b3-6632-4f21-8fdb-2cec67dd3620.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/layers
+[23-11-2024 04:45:03] Checking 4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/layers/4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_player/layers/4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 04:45:03] Checking 8ac1fe18-614c-42c0-8756-223779d35908.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack
+[23-11-2024 04:45:03] Checking s_rack.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/s_rack.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/s_rack.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/s_rack.yy"
+[23-11-2024 04:45:03] Found Sprite: s_rack
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/layers
+[23-11-2024 04:45:03] Checking 34f6bb56-df6c-4804-b6e0-bd363b592b20.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/layers
+[23-11-2024 04:45:03] Checking 34f6bb56-df6c-4804-b6e0-bd363b592b20
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/layers/34f6bb56-df6c-4804-b6e0-bd363b592b20
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_rack/layers/34f6bb56-df6c-4804-b6e0-bd363b592b20
+[23-11-2024 04:45:03] Checking 1e8965d8-5dbc-4193-987f-11c38e0b5f8f.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom
+[23-11-2024 04:45:03] Checking s_tailchangingroom.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/s_tailchangingroom.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/s_tailchangingroom.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/s_tailchangingroom.yy"
+[23-11-2024 04:45:03] Found Sprite: s_tailchangingroom
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/layers
+[23-11-2024 04:45:03] Checking 99195534-7c4c-49f6-a331-4a33d8dfd22e.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/layers
+[23-11-2024 04:45:03] Checking 99195534-7c4c-49f6-a331-4a33d8dfd22e
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/layers/99195534-7c4c-49f6-a331-4a33d8dfd22e
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/s_tailchangingroom/layers/99195534-7c4c-49f6-a331-4a33d8dfd22e
+[23-11-2024 04:45:03] Checking 90d94d57-0b9e-4d9b-87b2-f7426e3bb426.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna
+[23-11-2024 04:45:03] Checking wrsdziewczyna.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy
+[23-11-2024 04:45:03] Par: "folders/2_Sprites" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy"
+[23-11-2024 04:45:03] Found Sprite: wrsdziewczyna
+[23-11-2024 04:45:03] Checking layers
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers
+[23-11-2024 04:45:03] Checking b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers
+[23-11-2024 04:45:03] Checking b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers/b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers/b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 04:45:03] Checking 88a9e113-65b4-4446-8171-8f7d70ca85fe.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets
+[23-11-2024 04:45:03] Checking TileSet2
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet2
+[23-11-2024 04:45:03] Checking TileSet1
+[23-11-2024 04:45:03] Directory: C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet1
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet1
+[23-11-2024 04:45:03] Checking TileSet1.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet1/TileSet1.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet1/TileSet1.yy
+[23-11-2024 04:45:03] Par: "folders/4_TileSets" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet1/TileSet1.yy"
+[23-11-2024 04:45:03] Found TileSet: TileSet1
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet2
+[23-11-2024 04:45:03] Checking TileSet2.yy
+[23-11-2024 04:45:03] Parsing C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet2/TileSet2.yy
+[23-11-2024 04:45:03] Reading C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet2/TileSet2.yy
+[23-11-2024 04:45:03] Par: "folders/4_TileSets" at dir: "C:/Users/igorw/GameMakerProjects/SpeechGame/tilesets/TileSet2/TileSet2.yy"
+[23-11-2024 04:45:03] Found TileSet: TileSet2
+[23-11-2024 04:45:03] Checking output_tileset.png
+[23-11-2024 04:45:03] Current parent directory: C:/Users/igorw/GameMakerProjects/SpeechGame/timelines
+[23-11-2024 04:45:03] Moving files to trash...
+[23-11-2024 04:45:03] Files yeeted successfully!
+[23-11-2024 04:45:03] Generating YYP...
+[23-11-2024 04:45:03] SpeechGame.yyp created successfully!
