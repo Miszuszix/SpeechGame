@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"1_Objects","folderPath":"folders/1_Objects.yy","name":"1_Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"2_Sprites","folderPath":"folders/2_Sprites.yy","name":"2_Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,12 +34,10 @@
   },
   "name":"SpeechGame",
   "resources":[
+    {"id":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-<<<<<<< HEAD
-    {"id":{"name":"maincharacter_goingforward","path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",},},
-=======
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
->>>>>>> 330e6aadeb149e98d792b71dbb3f343131a8392e
+    {"id":{"name":"maincharacter_goingforward","path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",},},
     {"id":{"name":"maincharacter_standing","path":"sprites/maincharacter_standing/maincharacter_standing.yy",},},
     {"id":{"name":"wrsdziewczyna","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},},
   ],
