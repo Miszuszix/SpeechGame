@@ -30,13 +30,17 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1100.0.686",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"SpeechGame",
   "resources":[
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
+    {"id":{"name":"s_tailchangingroom","path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
