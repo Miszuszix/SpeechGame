@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"SpeechGame",
-    "path":"SpeechGame.yyp",
+    "name":"4_TileSets",
+    "path":"folders/4_TileSets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
