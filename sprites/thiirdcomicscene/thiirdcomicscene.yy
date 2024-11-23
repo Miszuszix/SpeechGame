@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"2_Sprites",
-    "path":"folders/2_Sprites.yy",
+    "name":"comic",
+    "path":"folders/2_Sprites/comic.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
