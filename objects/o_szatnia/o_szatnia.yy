@@ -27,10 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
+  "spriteId":null,
+  "spriteMaskId":{
     "name":"s_szatnia",
     "path":"sprites/s_szatnia/s_szatnia.yy",
   },
-  "spriteMaskId":null,
   "visible":true,
 }
