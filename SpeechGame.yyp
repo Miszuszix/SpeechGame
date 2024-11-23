@@ -14,16 +14,18 @@
     {"$GMFolder":"","%Name":"2_Sprites","folderPath":"folders/2_Sprites.yy","name":"2_Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"4_TileSets","folderPath":"folders/4_TileSets.yy","name":"4_TileSets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"5_Scripts","folderPath":"folders/5_Scripts.yy","name":"5_Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"3_Rooms","folderPath":"folders/3_Rooms.yy","name":"3_Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"SpeechGame",
   "resources":[
     {"id":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"maincharacter_goingback","path":"sprites/maincharacter_goingback/maincharacter_goingback.yy",},},
@@ -41,7 +43,9 @@
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
   "templateType":null,
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
