@@ -3,7 +3,7 @@
   "%Name":"coatlady_moving_happy",
   "bboxMode":0,
   "bbox_bottom":61,
-  "bbox_left":11,
+  "bbox_left":20,
   "bbox_right":44,
   "bbox_top":11,
   "collisionKind":1,

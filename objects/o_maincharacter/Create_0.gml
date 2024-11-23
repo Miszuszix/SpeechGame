@@ -9,7 +9,7 @@ ySpeed = 0
 moveSpeed = 3
 
 sprite[DOWN] = maincharacter_goingforward
-sprite[UP] = maincharacter_goingback
+sprite[UP] = maincharacter_goingback_coat
 sprite[LEFT] = maincharacter_goingleft
 sprite[RIGHT] = maincharacter_goingright
 sprite[STOP_DOWN] = maincharacter_standing
