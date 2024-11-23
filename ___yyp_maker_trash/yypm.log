@@ -1,0 +1,183 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[23-11-2024 02:13:24] Initialized GameMaker Project: SpeechGame.yyp
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/animcurves
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/extensions
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/fonts
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/notes
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/objects
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options
+[23-11-2024 02:13:24] Checking windows
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/windows
+[23-11-2024 02:13:24] Checking tvos
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/tvos
+[23-11-2024 02:13:24] Checking operagx
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/operagx
+[23-11-2024 02:13:24] Checking main
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/main
+[23-11-2024 02:13:24] Checking mac
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/mac
+[23-11-2024 02:13:24] Checking linux
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/linux
+[23-11-2024 02:13:24] Checking ios
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/ios
+[23-11-2024 02:13:24] Checking html5
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/html5
+[23-11-2024 02:13:24] Checking android
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/android
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/android
+[23-11-2024 02:13:24] Checking options_android.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/android/options_android.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/android/options_android.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/html5
+[23-11-2024 02:13:24] Checking options_html5.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/html5/options_html5.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/html5/options_html5.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/ios
+[23-11-2024 02:13:24] Checking options_ios.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/ios/options_ios.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/ios/options_ios.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/linux
+[23-11-2024 02:13:24] Checking options_linux.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/linux/options_linux.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/linux/options_linux.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/mac
+[23-11-2024 02:13:24] Checking options_mac.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/mac/options_mac.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/mac/options_mac.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/main
+[23-11-2024 02:13:24] Checking options_main.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/main/options_main.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/main/options_main.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/operagx
+[23-11-2024 02:13:24] Checking options_operagx.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/operagx/options_operagx.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/operagx/options_operagx.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/tvos
+[23-11-2024 02:13:24] Checking options_tvos.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/tvos/options_tvos.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/tvos/options_tvos.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/options/windows
+[23-11-2024 02:13:24] Checking options_windows.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/options/windows/options_windows.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/options/windows/options_windows.yy
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/paths
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/rooms
+[23-11-2024 02:13:24] Checking Room1
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/rooms/Room1
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/rooms/Room1
+[23-11-2024 02:13:24] Checking Room1.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy
+[23-11-2024 02:13:24] Par: "folders/3_Rooms" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/rooms/Room1/Room1.yy"
+[23-11-2024 02:13:24] Found Room: Room1
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/scripts
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sequences
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/shaders
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sounds
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites
+[23-11-2024 02:13:24] Checking wrsdziewczyna
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna
+[23-11-2024 02:13:24] Checking s_player
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player
+[23-11-2024 02:13:24] Checking maincharacter_standing
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing
+[23-11-2024 02:13:24] Checking maincharacter_goingforward
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward
+[23-11-2024 02:13:24] Checking chadgiebeta
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta
+[23-11-2024 02:13:24] Checking layers
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers
+[23-11-2024 02:13:24] Checking dbe4aede-8ef7-47aa-a6fb-7a8426b94d17.png
+[23-11-2024 02:13:24] Checking chadgiebeta.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy
+[23-11-2024 02:13:24] Par: "folders/2_Sprites" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/chadgiebeta.yy"
+[23-11-2024 02:13:24] Found Sprite: chadgiebeta
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers
+[23-11-2024 02:13:24] Checking dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers/dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/chadgiebeta/layers/dbe4aede-8ef7-47aa-a6fb-7a8426b94d17
+[23-11-2024 02:13:24] Checking 2ba6c724-c7ad-4dcd-b200-1233e589cf6e.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward
+[23-11-2024 02:13:24] Checking maincharacter_goingforward.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy
+[23-11-2024 02:13:24] Par: "folders/2_Sprites" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/maincharacter_goingforward.yy"
+[23-11-2024 02:13:24] Found Sprite: maincharacter_goingforward
+[23-11-2024 02:13:24] Checking layers
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers
+[23-11-2024 02:13:24] Checking a0efba47-3aeb-497f-87db-0431b673f04e.png
+[23-11-2024 02:13:24] Checking 43606c0d-3980-481f-9ac3-d6c7c1d78fa9.png
+[23-11-2024 02:13:24] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310.png
+[23-11-2024 02:13:24] Checking 16a322f4-7bba-47d8-8204-129d7adeb195.png
+[23-11-2024 02:13:24] Checking 13d82707-1474-4555-bd1f-4857837e01e0.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers
+[23-11-2024 02:13:24] Checking a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 02:13:24] Checking 43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 02:13:24] Checking 3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 02:13:24] Checking 16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/3e45b94a-d270-4c06-9145-8fbd97ec5310
+[23-11-2024 02:13:24] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/43606c0d-3980-481f-9ac3-d6c7c1d78fa9
+[23-11-2024 02:13:24] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_goingforward/layers/a0efba47-3aeb-497f-87db-0431b673f04e
+[23-11-2024 02:13:24] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing
+[23-11-2024 02:13:24] Checking maincharacter_standing.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy
+[23-11-2024 02:13:24] Par: "folders/2_Sprites" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/maincharacter_standing.yy"
+[23-11-2024 02:13:24] Found Sprite: maincharacter_standing
+[23-11-2024 02:13:24] Checking layers
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers
+[23-11-2024 02:13:24] Checking 16a322f4-7bba-47d8-8204-129d7adeb195.png
+[23-11-2024 02:13:24] Checking 13d82707-1474-4555-bd1f-4857837e01e0.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers
+[23-11-2024 02:13:24] Checking 16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/maincharacter_standing/layers/16a322f4-7bba-47d8-8204-129d7adeb195
+[23-11-2024 02:13:24] Checking 0bc63076-8a5f-476b-a9b3-0a4528d22e8d.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player
+[23-11-2024 02:13:24] Checking s_player.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy
+[23-11-2024 02:13:24] Par: "folders/2_Sprites" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/s_player.yy"
+[23-11-2024 02:13:24] Found Sprite: s_player
+[23-11-2024 02:13:24] Checking layers
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/layers
+[23-11-2024 02:13:24] Checking 4e0ae1b3-6632-4f21-8fdb-2cec67dd3620.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/layers
+[23-11-2024 02:13:24] Checking 4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/layers/4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/s_player/layers/4e0ae1b3-6632-4f21-8fdb-2cec67dd3620
+[23-11-2024 02:13:24] Checking 8ac1fe18-614c-42c0-8756-223779d35908.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna
+[23-11-2024 02:13:24] Checking wrsdziewczyna.yy
+[23-11-2024 02:13:24] Parsing C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy
+[23-11-2024 02:13:24] Reading C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy
+[23-11-2024 02:13:24] Par: "folders/2_Sprites" at dir: "C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/wrsdziewczyna.yy"
+[23-11-2024 02:13:24] Found Sprite: wrsdziewczyna
+[23-11-2024 02:13:24] Checking layers
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers
+[23-11-2024 02:13:24] Checking b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers
+[23-11-2024 02:13:24] Checking b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 02:13:24] Directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers/b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/sprites/wrsdziewczyna/layers/b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e
+[23-11-2024 02:13:24] Checking 88a9e113-65b4-4446-8171-8f7d70ca85fe.png
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/tilesets
+[23-11-2024 02:13:24] Current parent directory: C:/Users/kamab/GameMakerProjects/SpeechGame/timelines
+[23-11-2024 02:13:24] Moving files to trash...
+[23-11-2024 02:13:24] Files yeeted successfully!
+[23-11-2024 02:13:24] Generating YYP...
+[23-11-2024 02:13:24] SpeechGame.yyp created successfully!
