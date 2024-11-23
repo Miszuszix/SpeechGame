@@ -19,4 +19,10 @@ sprite[STOP_LEFT] = maincharacter_leftside
 
 face = DOWN
 
-lastDirection = 3lastDirection = 3
+<<<<<<< Updated upstream
+lastDirection = 3
+=======
+lastDirection = 3
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
