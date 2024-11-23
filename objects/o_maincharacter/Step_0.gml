@@ -9,24 +9,45 @@ ySpeed = (downKey - upKey) * moveSpeed
 x += xSpeed
 y += ySpeed
 
-if ySpeed != 0{
-	if ySpeed > 0{ 
-		face = DOWN
-		goUP = 0
-	}
-	if ySpeed < 0{
-		face = UP
-		goUP = 1
-	}
-}else{
-	if goUP == 0{
-		face = STOP
-	}
-	else{
-		face = STOP_BACK
+#region player movement
+
+if ySpeed < 0{
+	face = UP
+	lastDirection = 1
+}
+
+if xSpeed < 0{
+	face = LEFT
+	lastDirection = 2
+}
+
+if xSpeed > 0{
+	face = RIGHT
+	lastDirection = 0
+}
+
+if ySpeed > 0{
+	face = DOWN
+	lastDirection = 3
+}
+
+if xSpeed == 0 and ySpeed == 0{
+	switch(lastDirection){
+		case 0:
+			face = STOP_RIGHT
+			break
+		case 1:
+			face = STOP_UP
+			break
+		case 2:
+			face = STOP_LEFT
+			break
+		case 3:
+			face = STOP_DOWN
+			break	
 	}
 }
 
-
+#endregion
 
 sprite_index = sprite[face]
