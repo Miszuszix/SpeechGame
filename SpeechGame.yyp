@@ -22,6 +22,7 @@
   },
   "name":"SpeechGame",
   "resources":[
+    {"id":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"maincharacter_goingback","path":"sprites/maincharacter_goingback/maincharacter_goingback.yy",},},
