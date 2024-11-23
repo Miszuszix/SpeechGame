@@ -8,16 +8,24 @@
     "TileSerialiseData":[],
   },
   "name":"TileSet2",
-  "out_columns":0,
+  "out_columns":3,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
+<<<<<<< HEAD
     "name":"SpeechGame",
     "path":"SpeechGame.yyp",
+=======
+    "name":"4_TileSets",
+    "path":"folders/4_TileSets.yy",
+>>>>>>> f0e0174251d3d3f19ab35fb3d6ed3c5ff0d6b9c0
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_tailchangingroom",
+    "path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +39,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":9,
 }
