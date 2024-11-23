@@ -36,7 +36,6 @@
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
     {"id":{"name":"s_rack","path":"sprites/s_rack/s_rack.yy",},},
     {"id":{"name":"s_tailchangingroom","path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"wrsdziewczyna","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},},
   ],
   "resourceType":"GMProject",
