@@ -38,6 +38,8 @@
     {"id":{"name":"s_rack","path":"sprites/s_rack/s_rack.yy",},},
     {"id":{"name":"s_tailchangingroom","path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",},},
     {"id":{"name":"wrsdziewczyna","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
