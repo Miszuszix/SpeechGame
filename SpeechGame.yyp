@@ -30,6 +30,8 @@
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"maincharacter_goingback","path":"sprites/maincharacter_goingback/maincharacter_goingback.yy",},},
     {"id":{"name":"maincharacter_goingforward","path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",},},
+    {"id":{"name":"maincharacter_goingleft","path":"sprites/maincharacter_goingleft/maincharacter_goingleft.yy",},},
+    {"id":{"name":"maincharacter_goingright","path":"sprites/maincharacter_goingright/maincharacter_goingright.yy",},},
     {"id":{"name":"maincharacter_leftside","path":"sprites/maincharacter_leftside/maincharacter_leftside.yy",},},
     {"id":{"name":"maincharacter_rightside","path":"sprites/maincharacter_rightside/maincharacter_rightside.yy",},},
     {"id":{"name":"maincharacter_standing_back","path":"sprites/maincharacter_standing_back/maincharacter_standing_back.yy",},},
