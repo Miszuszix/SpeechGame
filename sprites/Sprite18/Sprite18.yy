@@ -2,15 +2,9 @@
   "$GMSprite":"",
   "%Name":"Sprite18",
   "bboxMode":0,
-<<<<<<< HEAD
-  "bbox_bottom":47,
-  "bbox_left":16,
-  "bbox_right":63,
-=======
   "bbox_bottom":127,
   "bbox_left":0,
   "bbox_right":127,
->>>>>>> 7ef18e0 (Adds coatlady and popcorn machine as a sprite)
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -18,16 +12,6 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-<<<<<<< HEAD
-    {"$GMSpriteFrame":"","%Name":"98f17e1e-3502-4c61-b6d8-dcbf2c759ce7","name":"98f17e1e-3502-4c61-b6d8-dcbf2c759ce7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-  ],
-  "gridX":0,
-  "gridY":0,
-  "height":100,
-  "HTile":false,
-  "layers":[
-    {"$GMImageLayer":"","%Name":"298a573c-bd80-493b-bcf2-3d80a65ffa2e","blendMode":0,"displayName":"default","isLocked":false,"name":"298a573c-bd80-493b-bcf2-3d80a65ffa2e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-=======
     {"$GMSpriteFrame":"","%Name":"2d4bc9f9-007b-4af6-a57d-6dd2a1840601","name":"2d4bc9f9-007b-4af6-a57d-6dd2a1840601","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
@@ -36,7 +20,6 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"e531d494-25e1-4670-bd1e-d186e2503860","blendMode":0,"displayName":"default","isLocked":false,"name":"e531d494-25e1-4670-bd1e-d186e2503860","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
->>>>>>> 7ef18e0 (Adds coatlady and popcorn machine as a sprite)
   ],
   "name":"Sprite18",
   "nineSlice":null,
@@ -86,13 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-<<<<<<< HEAD
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98f17e1e-3502-4c61-b6d8-dcbf2c759ce7","path":"sprites/Sprite18/Sprite18.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c6de8742-ceb1-499d-b075-189755d3213d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-=======
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d4bc9f9-007b-4af6-a57d-6dd2a1840601","path":"sprites/Sprite18/Sprite18.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b7d90f6b-b457-4099-92da-d88caa341fe8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
->>>>>>> 7ef18e0 (Adds coatlady and popcorn machine as a sprite)
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -108,9 +86,5 @@
   },
   "type":0,
   "VTile":false,
-<<<<<<< HEAD
-  "width":100,
-=======
   "width":128,
->>>>>>> 7ef18e0 (Adds coatlady and popcorn machine as a sprite)
 }
