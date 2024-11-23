@@ -6,6 +6,14 @@ downKey = keyboard_check(ord("S"))
 xSpeed = (rightKey - leftKey) * moveSpeed
 ySpeed = (downKey - upKey) * moveSpeed
 
+if place_meeting(x + xSpeed, y, o_szatnia){
+	xSpeed = 0
+}
+
+if place_meeting(x, y + ySpeed, o_szatnia){
+	ySpeed = 0
+}
+
 x += xSpeed
 y += ySpeed
 

@@ -22,11 +22,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.1100.0.686",
   },
   "name":"SpeechGame",
   "resources":[
     {"id":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},},
+    {"id":{"name":"o_szatnia","path":"objects/o_szatnia/o_szatnia.yy",},},
     {"id":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"s_rack","path":"sprites/s_rack/s_rack.yy",},},
     {"id":{"name":"s_rack2","path":"sprites/s_rack2/s_rack2.yy",},},
     {"id":{"name":"s_standWRS","path":"sprites/s_standWRS/s_standWRS.yy",},},
+    {"id":{"name":"s_szatnia","path":"sprites/s_szatnia/s_szatnia.yy",},},
     {"id":{"name":"s_tailchangingroom","path":"sprites/s_tailchangingroom/s_tailchangingroom.yy",},},
     {"id":{"name":"secondcomicscene","path":"sprites/secondcomicscene/secondcomicscene.yy",},},
     {"id":{"name":"Sprite14","path":"sprites/Sprite14/Sprite14.yy",},},
