@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e","name":"b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ab4c111f-277c-416c-b125-aa5bb8ad5660","name":"ab4c111f-277c-416c-b125-aa5bb8ad5660","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"88a9e113-65b4-4446-8171-8f7d70ca85fe","blendMode":0,"displayName":"default","isLocked":false,"name":"88a9e113-65b4-4446-8171-8f7d70ca85fe","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"0b80029a-59dc-45e7-9d63-06cc286bc9d2","blendMode":0,"displayName":"default","isLocked":false,"name":"0b80029a-59dc-45e7-9d63-06cc286bc9d2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"wrsdziewczyna",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"2_Sprites",
     "path":"folders/2_Sprites.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4fc9ef9-33c2-4b57-9cab-fe4733d84c6e","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c76b1f55-e592-4371-bd12-7809f62117b8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ab4c111f-277c-416c-b125-aa5bb8ad5660","path":"sprites/wrsdziewczyna/wrsdziewczyna.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ed950d3b-0fb6-4061-8199-eff750a9c0d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":38,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

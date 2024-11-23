@@ -34,6 +34,9 @@
     "name":"maincharacter_standing",
     "path":"sprites/maincharacter_standing/maincharacter_standing.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"maincharacter_goingforward",
+    "path":"sprites/maincharacter_goingforward/maincharacter_goingforward.yy",
+  },
   "visible":true,
 }

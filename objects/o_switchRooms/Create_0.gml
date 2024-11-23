@@ -1,0 +1,1 @@
+rightKey = 0
