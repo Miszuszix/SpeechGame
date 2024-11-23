@@ -12,8 +12,13 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
+<<<<<<< HEAD
+    "name":"SpeechGame",
+    "path":"SpeechGame.yyp",
+=======
     "name":"4_TileSets",
     "path":"folders/4_TileSets.yy",
+>>>>>>> f0e0174251d3d3f19ab35fb3d6ed3c5ff0d6b9c0
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
