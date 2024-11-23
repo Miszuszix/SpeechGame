@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"coatlady",
-    "path":"folders/2_Sprites/coatlady.yy",
+    "name":"people",
+    "path":"folders/2_Sprites/people.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
