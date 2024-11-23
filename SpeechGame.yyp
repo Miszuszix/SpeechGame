@@ -33,6 +33,7 @@
     {"id":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
     {"id":{"name":"Library","path":"rooms/Library/Library.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"coatlady_moving","path":"sprites/coatlady_moving/coatlady_moving.yy",},},
@@ -73,9 +74,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
     {"roomId":{"name":"Library","path":"rooms/Library/Library.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
