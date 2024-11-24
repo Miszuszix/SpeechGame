@@ -19,3 +19,7 @@ sprite[STOP_LEFT] = maincharacter_leftside_coat
 
 face = DOWN
 lastDirection = 3
+
+eWrs = inst_44ABEB24
+eChad = inst_192DCF35
+eLibrary = inst_33D01B3E
