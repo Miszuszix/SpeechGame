@@ -3,6 +3,10 @@ leftKey = 0
 upKey = 0
 downKey = 0
 
+elokwencja = 0
+riposta = 0
+rizz = 0
+
 xSpeed = 0
 ySpeed = 0
 
