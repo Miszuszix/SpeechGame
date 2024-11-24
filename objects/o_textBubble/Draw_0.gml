@@ -1,8 +1,27 @@
-/// @description Wstaw opis w tym miejscu
-// W tym edytorze możesz zapisać swój kod
-fx = x - 145
-fy = y - 22
 draw_self();
 draw_set_font(textFont)
-draw_set_color(c_black)
-draw_text_ext(fx, fy, "Dzień dobry kochanieńki, pomóc Ci w czymś?", 20, 374)
+
+if !select{
+	draw_set_color(c_black)
+	draw_text_ext(fx, fy, messages[page], 20, 374)
+	if keyboard_check(vk_enter)
+	{
+		if canChange{
+			page++
+			canChange = false
+		}
+		if page % 3 == 1{
+			select = true
+		}
+	}
+}else{
+	sprite_index = textBubble
+	draw_set_color(green)
+	draw_text_ext(sx, y1, options[0], 20, 374)
+	draw_set_color(red)
+	draw_text_ext(sx, y2, options[1], 20, 374)
+	draw_set_color(blue)
+	draw_text_ext(sx, y3, options[2], 20, 374)
+	draw_set_color(c_black)
+	draw_text_ext(sx, y4, options[3], 20, 374)
+}

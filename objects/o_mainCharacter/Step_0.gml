@@ -77,4 +77,34 @@ if abs(x - o_pressF.x) < 30 and abs(y - o_pressF.y) < 30{
 
 #endregion
 
+#region pressE
+if room == changingRoom{
+	distance = 70
+	
+	if abs(x - eWrs.x) < distance and abs(y - eWrs.y) < distance{
+		eWrs.visible = true
+		eWrs.wrs = 1
+	}else{
+		eWrs.visible = false
+		eWrs.wrs = 0
+	}
+
+	if abs(x - eChad.x) < distance and abs(y - eChad.y) < distance{
+		eChad.visible = true
+		eChad.chad = 1
+	}else{
+		eChad.visible = false
+		eChad.chad = 0
+	}
+
+	if abs(x - eLibrary.x) < distance and abs(y - eLibrary.y) < distance{
+		eLibrary.visible = true
+		eLibrary.library1 = 1
+	}else{
+		eLibrary.visible = false
+		eLibrary.library1 = 0
+	}
+}
+#endregion
+
 sprite_index = sprite[face]
