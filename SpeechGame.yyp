@@ -34,6 +34,7 @@
   },
   "name":"SpeechGame",
   "resources":[
+    {"id":{"name":"textFont_1","path":"fonts/textFont_1/textFont_1.yy",},},
     {"id":{"name":"textFont","path":"fonts/textFont/textFont.yy",},},
     {"id":{"name":"o_chad","path":"objects/o_chad/o_chad.yy",},},
     {"id":{"name":"o_clock","path":"objects/o_clock/o_clock.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"o_textBubbleElokwencja","path":"objects/o_textBubbleElokwencja/o_textBubbleElokwencja.yy",},},
     {"id":{"name":"o_textBubbleRiposta","path":"objects/o_textBubbleRiposta/o_textBubbleRiposta.yy",},},
     {"id":{"name":"o_textBubbleRizz","path":"objects/o_textBubbleRizz/o_textBubbleRizz.yy",},},
+    {"id":{"name":"o_tutorial","path":"objects/o_tutorial/o_tutorial.yy",},},
     {"id":{"name":"BattleRoom","path":"rooms/BattleRoom/BattleRoom.yy",},},
     {"id":{"name":"battleRoomElokwencja","path":"rooms/battleRoomElokwencja/battleRoomElokwencja.yy",},},
     {"id":{"name":"battleRoomRiposta","path":"rooms/battleRoomRiposta/battleRoomRiposta.yy",},},

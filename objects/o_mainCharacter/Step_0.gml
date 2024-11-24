@@ -23,7 +23,8 @@ if place_meeting(x, y + ySpeed, o_szatnia){
 
 #region player movement
 
-if room != BattleRoom and room != battleRoomElokwencja and room != battleRoomRiposta and room != battleRoomRizz{
+if room != BattleRoom and room != battleRoomElokwencja and room != battleRoomRiposta
+and room != battleRoomRizz and !instance_exists(o_tutorial){
 	x += xSpeed
 	y += ySpeed
 

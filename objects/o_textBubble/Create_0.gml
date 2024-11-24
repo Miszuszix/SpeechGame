@@ -1,5 +1,8 @@
 visible = false
 alarm[0] = 60
+o_elokwencja.image_index = global.elokwencja
+o_riposta.image_index = global.riposta
+o_rizz.image_index = global.rizz
 canDraw = false
 page = 0;
 key1 = 0

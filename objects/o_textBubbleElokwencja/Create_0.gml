@@ -1,5 +1,8 @@
 sx = x - 201
 yText = y - 30
+o_elokwencja.image_index = global.elokwencja
+o_riposta.image_index = global.riposta
+o_rizz.image_index = global.rizz
 input = y + 10
 win = false
 current = 0
