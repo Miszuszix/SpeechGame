@@ -57,6 +57,7 @@
     {"id":{"name":"desk","path":"sprites/desk/desk.yy",},},
     {"id":{"name":"doors","path":"sprites/doors/doors.yy",},},
     {"id":{"name":"elokwencja_Pasek","path":"sprites/elokwencja_Pasek/elokwencja_Pasek.yy",},},
+    {"id":{"name":"enter_button","path":"sprites/enter_button/enter_button.yy",},},
     {"id":{"name":"fifthcomicscene","path":"sprites/fifthcomicscene/fifthcomicscene.yy",},},
     {"id":{"name":"firstcomicscene","path":"sprites/firstcomicscene/firstcomicscene.yy",},},
     {"id":{"name":"fourcomicscene","path":"sprites/fourcomicscene/fourcomicscene.yy",},},
