@@ -1,13 +1,13 @@
 eKey = keyboard_check(ord("E"))
 
-elokwencja = clamp(elokwencja, 0, 4)
-riposta = clamp(riposta, 0, 4)
-rizz = clamp(rizz, 0, 4)
+global.elokwencja = clamp(global.elokwencja, 0, 4)
+global.riposta = clamp(global.riposta, 0, 4)
+global.rizz = clamp(global.rizz, 0, 4)
 
 if visible and eKey{
 	if wrs and canChange{
-		rizz++;
-		o_rizz.image_index = rizz
+		global.rizz++;
+		o_rizz.image_index = global.rizz
 		canChange = false
 	}
 }else{
@@ -16,8 +16,8 @@ if visible and eKey{
 
 if visible and eKey{
 	if chad and canChange{
-		riposta++;
-		o_riposta.image_index = riposta
+		global.riposta++;
+		o_riposta.image_index = global.riposta
 		canChange = false
 	}
 }else{
@@ -26,8 +26,8 @@ if visible and eKey{
 
 if visible and eKey{
 	if library1 and canChange{
-		elokwencja++;
-		o_elokwencja.image_index = elokwencja
+		global.elokwencja++;
+		o_elokwencja.image_index = global.elokwencja
 		canChange = false
 	}
 }else{

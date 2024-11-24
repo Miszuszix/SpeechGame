@@ -23,7 +23,8 @@ if place_meeting(x, y + ySpeed, o_szatnia){
 
 #region player movement
 
-if room != BattleRoom{
+if room != BattleRoom and room != battleRoomElokwencja and room != battleRoomRiposta
+and room != battleRoomRizz and !instance_exists(o_tutorial){
 	x += xSpeed
 	y += ySpeed
 
@@ -63,6 +64,8 @@ if room != BattleRoom{
 				break	
 		}
 	}
+	
+	sprite_index = sprite[face]
 }
 
 #endregion
@@ -106,5 +109,3 @@ if room == changingRoom{
 	}
 }
 #endregion
-
-sprite_index = sprite[face]
