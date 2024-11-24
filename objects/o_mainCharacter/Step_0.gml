@@ -23,43 +23,45 @@ if place_meeting(x, y + ySpeed, o_szatnia){
 
 #region player movement
 
-x += xSpeed
-y += ySpeed
+if room != BattleRoom{
+	x += xSpeed
+	y += ySpeed
 
-if ySpeed < 0{
-	face = UP
-	lastDirection = 1
-}
+	if ySpeed < 0{
+		face = UP
+		lastDirection = 1
+	}
 
-if xSpeed < 0{
-	face = LEFT
-	lastDirection = 2
-}
+	if xSpeed < 0{
+		face = LEFT
+		lastDirection = 2
+	}
 
-if xSpeed > 0{
-	face = RIGHT
-	lastDirection = 0
-}
+	if xSpeed > 0{
+		face = RIGHT
+		lastDirection = 0
+	}
 
-if ySpeed > 0{
-	face = DOWN
-	lastDirection = 3
-}
+	if ySpeed > 0{
+		face = DOWN
+		lastDirection = 3
+	}
 
-if xSpeed == 0 and ySpeed == 0{
-	switch(lastDirection){
-		case 0:
-			face = STOP_RIGHT
-			break
-		case 1:
-			face = STOP_UP
-			break
-		case 2:
-			face = STOP_LEFT
-			break
-		case 3:
-			face = STOP_DOWN
-			break	
+	if xSpeed == 0 and ySpeed == 0{
+		switch(lastDirection){
+			case 0:
+				face = STOP_RIGHT
+				break
+			case 1:
+				face = STOP_UP
+				break
+			case 2:
+				face = STOP_LEFT
+				break
+			case 3:
+				face = STOP_DOWN
+				break	
+		}
 	}
 }
 
