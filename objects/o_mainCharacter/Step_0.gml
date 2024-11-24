@@ -9,6 +9,8 @@ ySpeed = (downKey - upKey) * moveSpeed
 x=clamp(x, 0, room_width - 48);
 y=clamp(y, 32, room_height - 64);
 
+#region collisions
+
 if place_meeting(x + xSpeed, y, o_szatnia){
 	xSpeed = 0
 }
@@ -17,10 +19,12 @@ if place_meeting(x, y + ySpeed, o_szatnia){
 	ySpeed = 0
 }
 
-x += xSpeed
-y += ySpeed
+#endregion
 
 #region player movement
+
+x += xSpeed
+y += ySpeed
 
 if ySpeed < 0{
 	face = UP
@@ -57,6 +61,16 @@ if xSpeed == 0 and ySpeed == 0{
 			face = STOP_DOWN
 			break	
 	}
+}
+
+#endregion
+
+#region pressF
+
+if abs(x - o_pressF.x) < 30 and abs(y - o_pressF.y) < 30{
+	o_pressF.visible = true
+}else{
+	o_pressF.visible = false
 }
 
 #endregion
