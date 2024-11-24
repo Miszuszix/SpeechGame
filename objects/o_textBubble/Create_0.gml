@@ -2,6 +2,7 @@ visible = false
 alarm[0] = 60
 canDraw = false
 page = 0;
+key4 = 0
 fx = x - 145
 fy = y - 22
 sx = x - 201

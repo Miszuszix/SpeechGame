@@ -1,5 +1,6 @@
 draw_self();
 draw_set_font(textFont)
+key4 = keyboard_check(ord(4))
 
 if !select{
 	draw_set_color(c_black)
@@ -24,4 +25,7 @@ if !select{
 	draw_text_ext(sx, y3, options[2], 20, 374)
 	draw_set_color(c_black)
 	draw_text_ext(sx, y4, options[3], 20, 374)
+	if key4{
+		room_goto(changingRoom)
+	}
 }
