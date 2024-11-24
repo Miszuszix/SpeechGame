@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"comic",
-    "path":"folders/2_Sprites/comic.yy",
+    "name":"SpeechGame",
+    "path":"SpeechGame.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
