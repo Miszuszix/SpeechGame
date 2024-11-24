@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"textFont","path":"fonts/textFont/textFont.yy",},},
     {"id":{"name":"o_coatlady","path":"objects/o_coatlady/o_coatlady.yy",},},
+    {"id":{"name":"o_drawer","path":"objects/o_drawer/o_drawer.yy",},},
     {"id":{"name":"o_dziewczyna","path":"objects/o_dziewczyna/o_dziewczyna.yy",},},
     {"id":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},},
     {"id":{"name":"o_pressF","path":"objects/o_pressF/o_pressF.yy",},},
