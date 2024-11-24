@@ -57,6 +57,7 @@
     {"id":{"name":"chadgiebeta","path":"sprites/chadgiebeta/chadgiebeta.yy",},},
     {"id":{"name":"chair_back","path":"sprites/chair_back/chair_back.yy",},},
     {"id":{"name":"chair","path":"sprites/chair/chair.yy",},},
+    {"id":{"name":"clock","path":"sprites/clock/clock.yy",},},
     {"id":{"name":"coatlady_moving_happy","path":"sprites/coatlady_moving_happy/coatlady_moving_happy.yy",},},
     {"id":{"name":"coatlady_moving","path":"sprites/coatlady_moving/coatlady_moving.yy",},},
     {"id":{"name":"coatlady_standing","path":"sprites/coatlady_standing/coatlady_standing.yy",},},
