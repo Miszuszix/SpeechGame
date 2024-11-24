@@ -75,6 +75,7 @@
     {"id":{"name":"maincharacter_rightside","path":"sprites/maincharacter_rightside/maincharacter_rightside.yy",},},
     {"id":{"name":"maincharacter_standing_back_coat","path":"sprites/maincharacter_standing_back_coat/maincharacter_standing_back_coat.yy",},},
     {"id":{"name":"maincharacter_standing_back","path":"sprites/maincharacter_standing_back/maincharacter_standing_back.yy",},},
+    {"id":{"name":"maincharacter_standing_bossfight_coat","path":"sprites/maincharacter_standing_bossfight_coat/maincharacter_standing_bossfight_coat.yy",},},
     {"id":{"name":"maincharacter_standing_bossfight","path":"sprites/maincharacter_standing_bossfight/maincharacter_standing_bossfight.yy",},},
     {"id":{"name":"maincharacter_standing_coat","path":"sprites/maincharacter_standing_coat/maincharacter_standing_coat.yy",},},
     {"id":{"name":"maincharacter_standing","path":"sprites/maincharacter_standing/maincharacter_standing.yy",},},
