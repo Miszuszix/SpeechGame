@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"SpeechGame",
-    "path":"SpeechGame.yyp",
+    "name":"6_Scenes",
+    "path":"folders/6_Scenes.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

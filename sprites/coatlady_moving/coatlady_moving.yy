@@ -30,8 +30,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"people",
-    "path":"folders/2_Sprites/people.yy",
+    "name":"coatlady",
+    "path":"folders/2_Sprites/coatlady.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

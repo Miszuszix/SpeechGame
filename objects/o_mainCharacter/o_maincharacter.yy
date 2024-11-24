@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"o_pressF",
+  "%Name":"o_maincharacter",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_pressF",
+  "name":"o_maincharacter",
   "overriddenProperties":[],
   "parent":{
     "name":"1_Objects",
@@ -30,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_pressF",
-    "path":"sprites/s_pressF/s_pressF.yy",
+    "name":"maincharacter_standing_coat",
+    "path":"sprites/maincharacter_standing_coat/maincharacter_standing_coat.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"maincharacter_standing_coat",
+    "path":"sprites/maincharacter_standing_coat/maincharacter_standing_coat.yy",
+  },
   "visible":true,
 }
