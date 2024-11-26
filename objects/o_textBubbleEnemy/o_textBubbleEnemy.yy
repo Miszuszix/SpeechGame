@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_tutorial",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"o_textBubbleEnemy",
+  "eventList":[],
   "managed":true,
-  "name":"o_tutorial",
+  "name":"o_textBubbleEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"1_Objects",
-    "path":"folders/1_Objects.yy",
+    "name":"bubbles",
+    "path":"folders/1_Objects/bubbles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"textBubbleClear",
-    "path":"sprites/textBubbleClear/textBubbleClear.yy",
+    "name":"textBubbleRight",
+    "path":"sprites/textBubbleRight/textBubbleRight.yy",
   },
   "spriteMaskId":null,
   "visible":true,

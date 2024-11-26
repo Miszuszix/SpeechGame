@@ -1,17 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_textBubbleElokwencja",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"o_textBattle",
+  "eventList":[],
   "managed":true,
-  "name":"o_textBubbleElokwencja",
+  "name":"o_textBattle",
   "overriddenProperties":[],
   "parent":{
-    "name":"1_Objects",
-    "path":"folders/1_Objects.yy",
+    "name":"bubbles",
+    "path":"folders/1_Objects/bubbles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

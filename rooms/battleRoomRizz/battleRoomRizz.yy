@@ -10,7 +10,6 @@
     {"name":"inst_4B4FEC3A_1_2","path":"rooms/battleRoomRizz/battleRoomRizz.yy",},
     {"name":"inst_42ABF014_1_2","path":"rooms/battleRoomRizz/battleRoomRizz.yy",},
     {"name":"inst_6A45066F_1_1_2","path":"rooms/battleRoomRizz/battleRoomRizz.yy",},
-    {"name":"inst_726B5EB3","path":"rooms/battleRoomRizz/battleRoomRizz.yy",},
     {"name":"inst_63FE2038","path":"rooms/battleRoomRizz/battleRoomRizz.yy",},
   ],
   "isDnd":false,
@@ -19,7 +18,6 @@
         {"$GMRInstance":"v1","%Name":"inst_3E64DC38_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E64DC38_1_2","objectId":{"name":"o_maincharacter","path":"objects/o_maincharacter/o_maincharacter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":64.0,"y":96.0,},
         {"$GMRInstance":"v1","%Name":"inst_4B4FEC3A_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4B4FEC3A_1_2","objectId":{"name":"o_coatlady","path":"objects/o_coatlady/o_coatlady.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":256.0,"y":96.0,},
         {"$GMRInstance":"v1","%Name":"inst_42ABF014_1_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_42ABF014_1_2","objectId":{"name":"o_pressF","path":"objects/o_pressF/o_pressF.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
-        {"$GMRInstance":"v1","%Name":"inst_726B5EB3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_726B5EB3","objectId":{"name":"o_textBubbleRizz","path":"objects/o_textBubbleRizz/o_textBubbleRizz.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":320.0,},
         {"$GMRInstance":"v1","%Name":"inst_63FE2038","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_63FE2038","objectId":{"name":"o_clock","path":"objects/o_clock/o_clock.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":368.0,"y":264.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_3","assets":[
