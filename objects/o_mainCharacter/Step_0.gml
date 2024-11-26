@@ -2,6 +2,7 @@ rightKey = keyboard_check(ord("D"))
 leftKey = keyboard_check(ord("A"))
 upKey = keyboard_check(ord("W"))
 downKey = keyboard_check(ord("S"))
+escKey = keyboard_check(vk_escape)
 
 xSpeed = (rightKey - leftKey) * moveSpeed
 ySpeed = (downKey - upKey) * moveSpeed
@@ -23,8 +24,7 @@ if place_meeting(x, y + ySpeed, o_szatnia){
 
 #region player movement
 
-if room != BattleRoom and room != battleRoomElokwencja and room != battleRoomRiposta
-and room != battleRoomRizz and !instance_exists(o_tutorial){
+if room != BattleRoom{
 	x += xSpeed
 	y += ySpeed
 
@@ -108,4 +108,12 @@ if room == changingRoom{
 		eLibrary.library1 = 0
 	}
 }
+#endregion
+
+#region Quit game
+
+if escKey{
+	game_end()
+}
+
 #endregion

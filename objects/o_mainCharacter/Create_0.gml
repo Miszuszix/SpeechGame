@@ -2,6 +2,7 @@ rightKey = 0
 leftKey = 0
 upKey = 0
 downKey = 0
+escKey = 0
 
 elokwencja = 0
 riposta = 0
@@ -10,7 +11,7 @@ rizz = 0
 xSpeed = 0
 ySpeed = 0
 
-moveSpeed = 3
+moveSpeed = 4
 
 sprite[DOWN] = maincharacter_goingforward_coat
 sprite[UP] = maincharacter_goingback_coat
