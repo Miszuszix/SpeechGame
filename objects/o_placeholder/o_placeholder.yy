@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_blocks",
-  "eventList":[],
+  "%Name":"o_placeholder",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"o_blocks",
+  "name":"o_placeholder",
   "overriddenProperties":[],
   "parent":{
     "name":"bubbles",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"textBubbleTestBlock",
-    "path":"sprites/textBubbleTestBlock/textBubbleTestBlock.yy",
+    "name":"textBubbleGray",
+    "path":"sprites/textBubbleGray/textBubbleGray.yy",
   },
   "spriteMaskId":null,
   "visible":true,
