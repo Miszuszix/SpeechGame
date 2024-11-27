@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"coatlady_standing",
-    "path":"sprites/coatlady_standing/coatlady_standing.yy",
+    "name":"coatlady_moving_happy",
+    "path":"sprites/coatlady_moving_happy/coatlady_moving_happy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
