@@ -1,3 +1,12 @@
+global.order = []
+for (var i = 0; i < instance_number(o_block); i++){
+	id.depth = global.blocks_depth[array_get_index(global.array_blocks, id)]
+}
+
+if !mouse_check_button(mb_left){
+	dragged = false
+}
+
 if !dragged{
 	exit
 }else{
